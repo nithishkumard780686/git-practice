@@ -1,3 +1,4 @@
 hi i am nithish
 This is second update.
 this is the third update
+git conflict is happenedgit 
